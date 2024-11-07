@@ -1,7 +1,7 @@
 # LITA-CLASS: HR DATA
 
 
-<h2 id="Section2">Using Power BI to build HR Dashboard</h2>
+<h2 id="Section2">Using Power BI to build HR interactive Dashboard </h2>
 Steps
 <ol type="i">
 
@@ -14,6 +14,8 @@ Steps
 <li>Click on view to ensure your quality,distribution and profile are 100% accurate.</li>
 <li>Close and apply.</li>
 <li>Select Table view and add Mearsure for the Average Age.</li>
+
+</li>
 
 
 
