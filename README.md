@@ -9,11 +9,11 @@ Steps
 <li> Select data and click on Transform data.</li>
 <li> Promote Hearder<li> 
 <li> Add Conditional Column<li> 
-<li>Remove duplicate data by selecting your entire column and click 'delect duplicate rows.</li>
-<li>Add Custom by clicking Add Custom and fill in the field accordingly to have your revenue coulumns.</li>
-<li>Click on view to ensure your quality,distribution and profile are 100% accurate.</li>
-<li>Close and apply.</li>
-<li>Select Table view and add Mearsure for the Average Age.</li>
+<li> Remove duplicate data by selecting your entire column and click 'delect duplicate rows.</li>
+<li> Add Custom by clicking Add Custom and fill in the field accordingly to have your revenue coulumns.</li>
+<li> Click on view to ensure your quality,distribution and profile are 100% accurate.</li>
+<li> Close and apply.</li>
+<li> Select Table view and add Mearsure for the Average Age.</li>
 
 </li>
 
